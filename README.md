@@ -70,6 +70,7 @@ Some of the best podcast episodes about personalized marketing, with a wealth of
 - [Best 13 Podcast Episodes About Personalization](https://ninetailed.io/blog/podcast-episodes-about-personalization/)
 
 ## Tools
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 The various tools and technologies that you can use to improve personalization.
 
 - [How to implement dynamic content on your website with PMS](https://croct.com/blog/post/how-to-implement-dynamic-content-pms?utm_medium=repo&utm_source=github&utm_campaign=00000000.RE.EC.awesome_personalization)
